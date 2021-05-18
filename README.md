@@ -1,12 +1,12 @@
 # Resume
 
-## Sai Kumar
+## Srinivas
 ==================
 
 ### Personal details
 
-- Name:Sai Kumar<br>
-- Mail Id:saik42012@gmail.com<br>
+- Name:Srinivas<br>
+- Mail Id:srinugarre14@gmail.com<br>
 - Phone:+91 XXXXXXXXXX <br>
 - Address: Vijayawada <br>
 ### Education Details :
@@ -27,10 +27,10 @@
 - Address : Vijayawada<br>
 
 **SSC**
-- SchoolName: __Virinchi Vidyaniketan__<br>
+- SchoolName: __Ideal em high school__<br>
 - Year Of Study: 2016<br>
 - Precentage : 92.3%<br>
-- Address : Tanuku<br>
+- Address : Vijayawada<br>
 
 ### **Skills**
 
@@ -66,7 +66,6 @@ I Want To Software Developer in `Python`
  - I Got College First in 2nd year.
  
 ###  **Projects**
- - studentstuff.ml
- - 2reference.cf
+ 
  
  
